@@ -1,11 +1,12 @@
 # Falcon_Defender.Hack4Soc
 
 # Impact-Analysis
-Feedback Analysis
+Feedback Analysis for the councellors to track their profile.
 
 # Requirements
 In order to use these whole system you require Jupyter notebook, Google spreadsheet,Google form API, Any IDE for website development,.
 
+# Process 
 1. First create Website to collect responses. You can create form from scratch or use Google Forms API.
 2. In google forms settings use *Select Form Destinaton* and create new spreadsheet.
 3. Fill out one test form to check whether responses are beig stored in spreadsheet or not.

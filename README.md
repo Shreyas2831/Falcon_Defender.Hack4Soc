@@ -4,7 +4,7 @@
 Feedback Analysis for the councellors to track their profile.
 
 # Requirements
-In order to use these whole system you require Jupyter notebook, Google spreadsheet,Google form API, Any IDE for website development,.
+In order to use these whole system you require Jupyter notebook, Google spreadsheet, Google form API, Any IDE for website development,.
 
 # Process 
 1. First create Website to collect responses. You can create form from scratch or use Google Forms API.

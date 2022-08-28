@@ -1,7 +1,7 @@
 # Falcon_Defender.Hack4Soc
 
 # Impact-Analysis
-Feedback Analysis for the councellors to track their profile.
+Feedback Analysis for the councellors to collect and analyse the feedback.
 
 # Requirements
 In order to use these whole system you require Jupyter notebook, Google spreadsheet, Google form API, Any IDE for website development,.
